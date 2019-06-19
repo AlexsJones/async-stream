@@ -16,11 +16,11 @@ Project's aim is to supply convenient utilities for stream processing.Currently 
 #### Installation
 
 
-  - `go get -u github.com/SeedJobs/async-stream`
+  - `go get -u github.com/BeameryHQ/async-stream`
   
   or if using dep : 
   
-  - `dep ensure -add github.com/SeedJobs/async-stream`
+  - `dep ensure -add github.com/BeameryHQ/async-stream`
   
 
 #### Stream Processing
